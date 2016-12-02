@@ -1,0 +1,19 @@
+{
+  "name": "sphinx-util",
+  "version": "1.0.0",
+  "description": "Some useful functions to use with Sphinx search engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calibr/sphinx-util.git"
+  },
+  "author": "calibr <awcalibr@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calibr/sphinx-util/issues"
+  },
+  "homepage": "https://github.com/calibr/sphinx-util#readme"
+}
